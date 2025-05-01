@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "mowziesmobs:steal_ice_crystal": {
+    "criteria": {
+      "steal_crystal": "2025-05-01 03:01:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/beach_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
@@ -917,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-01 02:28:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
@@ -976,6 +988,15 @@
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "stray": "2025-05-01 03:18:14 +0000",
+      "zombie": "2025-05-01 03:15:13 +0000",
+      "creeper": "2025-05-01 03:18:16 +0000",
+      "enderman": "2025-05-01 03:17:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1154,6 +1175,12 @@
   "biomesoplenty:recipes/redstone/willow_door": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-05-01 02:38:01 +0000"
     },
     "done": true
   },
@@ -1757,6 +1784,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-05-01 03:15:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
@@ -1819,7 +1852,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2025-05-01 00:30:34 +0000"
+      "forest": "2025-05-01 02:29:11 +0000",
+      "swampland": "2025-05-01 02:33:02 +0000",
+      "forest_hills": "2025-05-01 03:16:28 +0000",
+      "plains": "2025-05-01 00:30:34 +0000",
+      "river": "2025-05-01 02:33:24 +0000"
     },
     "done": false
   },
@@ -2753,6 +2790,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-05-01 02:53:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
@@ -2888,6 +2931,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-01 03:00:17 +0000"
     },
     "done": true
   },
@@ -4070,6 +4119,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2025-05-01 00:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 03:16:08 +0000"
     },
     "done": true
   },
