@@ -59,8 +59,12 @@
 				"meta": 0,
 				"enchantments": [
 					{
-						"enchantment": "somanyenchantments:lessersmite",
-						"enchantmentLevel": 4
+						"enchantment": "mujmajnkraftsbettersurvival:weightless",
+						"enchantmentLevel": 1
+					}, 
+					{
+						"enchantment": "minecraft:protection",
+						"enchantmentLevel": 2
 					}
 				],
 				"minCount": 1,
