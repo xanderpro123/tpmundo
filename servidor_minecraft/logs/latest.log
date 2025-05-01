@@ -4094,3 +4094,81 @@ Report this to the loot adder.
 [04:09:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
 [04:10:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
 [04:10:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:10:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:10:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:11:08] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for zanderga123, restore it with /gkrestore 4d045647-2c8c-368f-88e0-9f5a300d3056_zanderga123_2025-05-01_04.11.08.426
+[04:11:08] [Server thread/INFO] [gravekeeper]: Generated DeathChest for zanderga123 (4d045647-2c8c-368f-88e0-9f5a300d3056) in DIM0 at (232 63 199).
+[04:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 is bleeding...
+[04:11:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:11:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Javivixvi has made the advancement [Monster Hunter]
+[04:12:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:12:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Javivixvi> de pronto plash
+[04:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zanderga123> dwd
+[04:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Javivixvi> la maya del bikini azul
+[04:13:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zanderga123> w
+[04:13:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zanderga123> s
+[04:13:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:13:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:13:16] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for zanderga123, restore it with /gkrestore 4d045647-2c8c-368f-88e0-9f5a300d3056_zanderga123_2025-05-01_04.13.16.733
+[04:13:16] [Server thread/INFO] [gravekeeper]: Generated DeathChest for zanderga123 (4d045647-2c8c-368f-88e0-9f5a300d3056) in DIM0 at (241 64 170).
+[04:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 is bleeding...
+[04:13:35] [Server thread/WARN] [FML]: Quark loaded a new chunk [21, -1] in dimension 0 (overworld) while populating chunk [20, -1], causing cascading worldgen lag.
+[04:13:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:35] [Server thread/WARN] [FML]: Quark loaded a new chunk [20, -2] in dimension 0 (overworld) while populating chunk [20, -1], causing cascading worldgen lag.
+[04:13:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:35] [Server thread/WARN] [FML]: Quark loaded a new chunk [21, -2] in dimension 0 (overworld) while populating chunk [20, -1], causing cascading worldgen lag.
+[04:13:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:38] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for zanderga123, restore it with /gkrestore 4d045647-2c8c-368f-88e0-9f5a300d3056_zanderga123_2025-05-01_04.13.38.077
+[04:13:38] [Server thread/INFO] [gravekeeper]: Generated DeathChest for zanderga123 (4d045647-2c8c-368f-88e0-9f5a300d3056) in DIM0 at (233 64 180).
+[04:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 is bleeding...
+[04:13:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:13:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:13:58] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['zanderga123'/2475, l='world', x=239.19, y=64.00, z=176.71]
+[04:13:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 was slain by Skeleton Warrior
+[04:13:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:14:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:14:40] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: zanderga123
+[04:14:40] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for zanderga123, restore it with /gkrestore 4d045647-2c8c-368f-88e0-9f5a300d3056_zanderga123_2025-05-01_04.14.40.782
+[04:14:40] [Server thread/INFO] [gravekeeper]: Generated DeathChest for zanderga123 (4d045647-2c8c-368f-88e0-9f5a300d3056) in DIM0 at (248 62 172).
+[04:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 is bleeding...
+[04:14:42] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['zanderga123'/2475, l='world', x=247.30, y=62.00, z=172.70]
+[04:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 was shot by Baby Skeleton
+[04:14:52] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Javivixvi, restore it with /gkrestore 25c99da4-da77-3cc7-9037-5fe5a0473e76_Javivixvi_2025-05-01_04.14.52.829
+[04:14:52] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Javivixvi (25c99da4-da77-3cc7-9037-5fe5a0473e76) in DIM0 at (250 63 172).
+[04:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Javivixvi is bleeding...
+[04:14:56] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['Javivixvi'/161646, l='world', x=250.70, y=63.25, z=172.30]
+[04:14:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Javivixvi was shot by Baby Skeleton
+[04:15:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:15:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:16:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:16:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:16:40] [Server thread/WARN] [FML]: Quark loaded a new chunk [13, -8] in dimension 0 (overworld) while populating chunk [14, -7], causing cascading worldgen lag.
+[04:16:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:16:40] [Server thread/WARN] [FML]: Quark loaded a new chunk [12, -8] in dimension 0 (overworld) while populating chunk [14, -7], causing cascading worldgen lag.
+[04:16:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:16:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:16:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:17:24] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [22, -8] in dimension 0 (overworld) while populating chunk [22, -7], causing cascading worldgen lag.
+[04:17:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:24] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [21, -7] in dimension 0 (overworld) while populating chunk [22, -7], causing cascading worldgen lag.
+[04:17:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:24] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [20, -7] in dimension 0 (overworld) while populating chunk [22, -7], causing cascading worldgen lag.
+[04:17:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:24] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [19, -7] in dimension 0 (overworld) while populating chunk [22, -7], causing cascading worldgen lag.
+[04:17:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:17:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:17:57] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:18:02] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Javivixvi
+[04:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Javivixvi has made the advancement [Acquire Hardware]
+[04:18:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:18:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:19:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:19:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:19:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:19:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:20:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:20:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.

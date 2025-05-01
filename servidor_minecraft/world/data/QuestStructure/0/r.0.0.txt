@@ -372,3 +372,10 @@ OakTree,340,350,288,299
 GenericTreeSmall,342,346,282,287
 OakTree,277,287,29,40
 GenericTree1,278,284,28,34
+BirchTree1,320,325,-11,-5
+QuakingAspen,413,419,93,99
+BirchTree1,416,421,98,104
+QuakingAspen,419,425,97,103
+BirchTree,409,416,94,101
+BirchTree1,314,320,-12,-7
+Fiberpalm,90,100,-43,-33
