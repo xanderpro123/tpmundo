@@ -1,0 +1,808 @@
+## Potion IDs                                                          ##
+#########################################################################
+## In the form:                                                        ##
+## <potion name>                                                       ##
+##    - Id: <potion id>                                                ##
+##    - Color: <potion color>                                          ##
+##    - Is Instant: <true if an instant potion (like health)>          ##
+##    - Is Bad: <true if considered a 'bad' potion>                    ##
+##    - Is Beneficial: <true if considered 'beneficial' (client only)> ##
+#########################################################################
+biomesoplenty:curse
+   - Id: 0
+   - Color: 304618
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:speed
+   - Id: 1
+   - Color: 8171462
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:slowness
+   - Id: 2
+   - Color: 5926017
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:haste
+   - Id: 3
+   - Color: 14270531
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:mining_fatigue
+   - Id: 4
+   - Color: 4866583
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:strength
+   - Id: 5
+   - Color: 9643043
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:instant_health
+   - Id: 6
+   - Color: 16262179
+   - Is Instant: true
+   - Is Bad: false
+
+
+minecraft:instant_damage
+   - Id: 7
+   - Color: 4393481
+   - Is Instant: true
+   - Is Bad: true
+
+
+minecraft:jump_boost
+   - Id: 8
+   - Color: 2293580
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:nausea
+   - Id: 9
+   - Color: 5578058
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:regeneration
+   - Id: 10
+   - Color: 13458603
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:resistance
+   - Id: 11
+   - Color: 10044730
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:fire_resistance
+   - Id: 12
+   - Color: 14981690
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:water_breathing
+   - Id: 13
+   - Color: 3035801
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:invisibility
+   - Id: 14
+   - Color: 8356754
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:blindness
+   - Id: 15
+   - Color: 2039587
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:night_vision
+   - Id: 16
+   - Color: 2039713
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:hunger
+   - Id: 17
+   - Color: 5797459
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:weakness
+   - Id: 18
+   - Color: 4738376
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:poison
+   - Id: 19
+   - Color: 5149489
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:wither
+   - Id: 20
+   - Color: 3484199
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:health_boost
+   - Id: 21
+   - Color: 16284963
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:absorption
+   - Id: 22
+   - Color: 2445989
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:saturation
+   - Id: 23
+   - Color: 16262179
+   - Is Instant: true
+   - Is Bad: false
+
+
+minecraft:glowing
+   - Id: 24
+   - Color: 9740385
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:levitation
+   - Id: 25
+   - Color: 13565951
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:luck
+   - Id: 26
+   - Color: 3381504
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:unluck
+   - Id: 27
+   - Color: 12624973
+   - Is Instant: false
+   - Is Bad: true
+
+
+uniquee:pestilences_odium
+   - Id: 28
+   - Color: 3484199
+   - Is Instant: false
+   - Is Bad: true
+
+
+hordes:infected
+   - Id: 29
+   - Color: 4456450
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:blue
+   - Id: 30
+   - Color: 255
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:black
+   - Id: 31
+   - Color: 3158064
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:white
+   - Id: 32
+   - Color: 13421772
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:resilience
+   - Id: 33
+   - Color: 5970436
+   - Is Instant: false
+   - Is Bad: false
+
+
+quark:curse
+   - Id: 34
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:danger_sight
+   - Id: 35
+   - Color: 575715
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:carry
+   - Id: 36
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:enderference
+   - Id: 37
+   - Color: 2201695
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:insatiable
+   - Id: 38
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:magnetic
+   - Id: 39
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:momentum
+   - Id: 40
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:dot
+   - Id: 41
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:splinter
+   - Id: 42
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+
+
+conarm:superhotpotion
+   - Id: 43
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+cgm:blinded
+   - Id: 44
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+cgm:deafened
+   - Id: 45
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+ee:corrupted
+   - Id: 46
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+mowziesmobs:suns_blessing
+   - Id: 47
+   - Color: 16768834
+   - Is Instant: false
+   - Is Bad: false
+
+
+mowziesmobs:geomancy
+   - Id: 48
+   - Color: 13500280
+   - Is Instant: false
+   - Is Bad: false
+
+
+mowziesmobs:frozen
+   - Id: 49
+   - Color: 14215167
+   - Is Instant: false
+   - Is Bad: false
+
+
+mowziesmobs:poison_resist
+   - Id: 50
+   - Color: 6750003
+   - Is Instant: false
+   - Is Bad: false
+
+
+netherex:frozen
+   - Id: 51
+   - Color: -10634030
+   - Is Instant: false
+   - Is Bad: true
+
+
+netherex:frostbitten
+   - Id: 52
+   - Color: -15473921
+   - Is Instant: false
+   - Is Bad: true
+
+
+netherex:infested
+   - Id: 53
+   - Color: -7446488
+   - Is Instant: false
+   - Is Bad: true
+
+
+netherex:crying
+   - Id: 54
+   - Color: -10011012
+   - Is Instant: false
+   - Is Bad: true
+
+
+netherex:fire_burning
+   - Id: 55
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+netherex:soul_sucked
+   - Id: 56
+   - Color: -4432440
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:coth
+   - Id: 57
+   - Color: 894258
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:fear
+   - Id: 58
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:antimall
+   - Id: 59
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:bleed
+   - Id: 60
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:corrosive
+   - Id: 61
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:viral
+   - Id: 62
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:rage
+   - Id: 63
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:repel
+   - Id: 64
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:senses
+   - Id: 65
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:prey
+   - Id: 66
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:debar
+   - Id: 67
+   - Color: 894258
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:needler
+   - Id: 68
+   - Color: 894258
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:foster
+   - Id: 69
+   - Color: 894258
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:link
+   - Id: 70
+   - Color: 894258
+   - Is Instant: false
+   - Is Bad: true
+
+
+srparasites:pivot
+   - Id: 71
+   - Color: 894258
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:flammable
+   - Id: 72
+   - Color: 9387807
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:slippery
+   - Id: 73
+   - Color: 1511427
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:conductive
+   - Id: 74
+   - Color: 6881280
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:sticky
+   - Id: 75
+   - Color: 10250240
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:stunned
+   - Id: 76
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:concretefeet
+   - Id: 77
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:flashed
+   - Id: 78
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+
+
+mujmajnkraftsbettersurvival:stun
+   - Id: 79
+   - Color: 16774925
+   - Is Instant: false
+   - Is Bad: true
+
+
+mujmajnkraftsbettersurvival:warp
+   - Id: 80
+   - Color: 9838591
+   - Is Instant: true
+   - Is Bad: false
+
+
+mujmajnkraftsbettersurvival:antiwarp
+   - Id: 81
+   - Color: 14378216
+   - Is Instant: false
+   - Is Bad: true
+
+
+mujmajnkraftsbettersurvival:milk
+   - Id: 82
+   - Color: 16777215
+   - Is Instant: true
+   - Is Bad: false
+
+
+mujmajnkraftsbettersurvival:cure
+   - Id: 83
+   - Color: 16774925
+   - Is Instant: true
+   - Is Bad: false
+
+
+mujmajnkraftsbettersurvival:dispel
+   - Id: 84
+   - Color: 11921919
+   - Is Instant: true
+   - Is Bad: true
+
+
+bountifulbaubles:sinful
+   - Id: 85
+   - Color: 1053463
+   - Is Instant: false
+   - Is Bad: false
+
+
+hermitsarsenal:outbreak
+   - Id: 86
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+hermitsarsenal:seised
+   - Id: 87
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+hermitsarsenal:stunned
+   - Id: 88
+   - Color: 894257
+   - Is Instant: false
+   - Is Bad: true
+
+
+xaerominimap:no_minimap
+   - Id: 89
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: false
+
+
+xaerominimap:no_minimap_harmful
+   - Id: 90
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+xaerominimap:no_entity_radar
+   - Id: 91
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: false
+
+
+xaerominimap:no_entity_radar_harmful
+   - Id: 92
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+xaerominimap:no_waypoints
+   - Id: 93
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: false
+
+
+xaerominimap:no_waypoints_harmful
+   - Id: 94
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+xaerominimap:no_cave_maps
+   - Id: 95
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: false
+
+
+xaerominimap:no_cave_maps_harmful
+   - Id: 96
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+xaeroworldmap:no_world_map
+   - Id: 97
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: false
+
+
+xaeroworldmap:no_world_map_harmful
+   - Id: 98
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+xaeroworldmap:no_cave_maps
+   - Id: 99
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: false
+
+
+xaeroworldmap:no_cave_maps_harmful
+   - Id: 100
+   - Color: -16777216
+   - Is Instant: false
+   - Is Bad: true
+
+
+xat:sparkling
+   - Id: 101
+   - Color: 16777160
+   - Is Instant: true
+   - Is Bad: false
+
+
+xat:glittering
+   - Id: 102
+   - Color: 16777120
+   - Is Instant: true
+   - Is Bad: false
+
+
+xat:glowing
+   - Id: 103
+   - Color: 16777080
+   - Is Instant: true
+   - Is Bad: false
+
+
+xat:ice_resistance
+   - Id: 104
+   - Color: 15132390
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:lightning_resistance
+   - Id: 105
+   - Color: 15132390
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:human
+   - Id: 106
+   - Color: 11107684
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:fairy
+   - Id: 107
+   - Color: 12514535
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:dwarf
+   - Id: 108
+   - Color: 10832170
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:titan
+   - Id: 109
+   - Color: 10066329
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:goblin
+   - Id: 110
+   - Color: 6588004
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:elf
+   - Id: 111
+   - Color: 16374701
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:faelis
+   - Id: 112
+   - Color: 16571252
+   - Is Instant: false
+   - Is Bad: false
+
+
+xat:dragon
+   - Id: 113
+   - Color: 3289650
+   - Is Instant: false
+   - Is Bad: false
+
+
