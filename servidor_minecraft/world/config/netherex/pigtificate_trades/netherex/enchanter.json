@@ -59,12 +59,8 @@
 				"meta": 0,
 				"enchantments": [
 					{
-						"enchantment": "mujmajnkraftsbettersurvival:weightless",
+						"enchantment": "futurefireproof:fireproof",
 						"enchantmentLevel": 1
-					}, 
-					{
-						"enchantment": "minecraft:protection",
-						"enchantmentLevel": 2
 					}
 				],
 				"minCount": 1,

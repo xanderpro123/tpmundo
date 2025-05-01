@@ -1855,16 +1855,7 @@ minecraft:dye - 11
 
 egg
 minecraft:egg - 0
-betteranimalsplus:pheasant_egg - 0
-betteranimalsplus:turkey_egg - 0
-betteranimalsplus:goose_egg - 0
 primitivemobs:dodo_egg - 0
-
-
-eggCookable
-betteranimalsplus:pheasant_egg - 0
-betteranimalsplus:turkey_egg - 0
-betteranimalsplus:goose_egg - 0
 
 
 eggplant
@@ -2636,8 +2627,6 @@ harvestcraft:cheddarandsourcreampotatochipsitem - 0
 
 foodCheese
 harvestcraft:cheeseitem - 0
-betteranimalsplus:cheese - 0
-betteranimalsplus:goatcheese - 0
 
 
 foodCheeseburger
@@ -3244,12 +3233,6 @@ foodEelraw
 harvestcraft:eelrawitem - 0
 
 
-foodEgg
-betteranimalsplus:pheasant_egg - 0
-betteranimalsplus:turkey_egg - 0
-betteranimalsplus:goose_egg - 0
-
-
 foodEggnog
 harvestcraft:eggnogitem - 0
 
@@ -3536,14 +3519,6 @@ harvestcraft:glazedcarrotsitem - 0
 
 foodGlisteningsalad
 harvestcraft:glisteningsaladitem - 0
-
-
-foodGoatCheese
-betteranimalsplus:goatcheese - 0
-
-
-foodGoatMilk
-betteranimalsplus:goatmilk - 0
 
 
 foodGoodMeat
@@ -5712,13 +5687,11 @@ harvestcraft:veggiestripsitem - 0
 foodVenisoncooked
 harvestcraft:venisoncookeditem - 0
 mysticalworld:cooked_venison - 0
-betteranimalsplus:venisoncooked - 0
 
 
 foodVenisonraw
 harvestcraft:venisonrawitem - 0
 mysticalworld:venison - 0
-betteranimalsplus:venisonraw - 0
 
 
 foodVindaloo
@@ -6265,20 +6238,6 @@ minecraft:waterlily - 0
 biomesoplenty:waterlily - any
 
 
-listAllEgg
-betteranimalsplus:pheasant_egg - 0
-betteranimalsplus:turkey_egg - 0
-betteranimalsplus:goose_egg - 0
-
-
-listAllGoatMilk
-betteranimalsplus:goatmilk - 0
-
-
-listAllMilk
-betteranimalsplus:goatmilk - 0
-
-
 listAllbeefcooked
 harvestcraft:cookedtofeakitem - 0
 minecraft:cooked_beef - 0
@@ -6346,9 +6305,6 @@ harvestcraft:groundduckitem - 0
 listAllegg
 harvestcraft:rawtofeegitem - 0
 minecraft:egg - 0
-betteranimalsplus:pheasant_egg - 0
-betteranimalsplus:turkey_egg - 0
-betteranimalsplus:goose_egg - 0
 primitivemobs:dodo_egg - 0
 
 
@@ -6367,7 +6323,6 @@ minecraft:cooked_fish - 0
 minecraft:cooked_fish - 1
 harvestcraft:calamaricookeditem - 0
 mysticalworld:cooked_squid - 0
-betteranimalsplus:crab_meat_cooked - 0
 
 
 listAllfishfresh
@@ -6422,7 +6377,6 @@ harvestcraft:walleyerawitem - 0
 harvestcraft:greenheartfishitem - 0
 harvestcraft:sardinerawitem - 0
 mysticalworld:raw_squid - 0
-betteranimalsplus:crab_meat_raw - 0
 
 
 listAllfruit
@@ -6578,9 +6532,6 @@ harvestcraft:turkeycookeditem - 0
 harvestcraft:venisoncookeditem - 0
 harvestcraft:duckcookeditem - 0
 mysticalworld:cooked_venison - 0
-betteranimalsplus:venisoncooked - 0
-betteranimalsplus:turkey_cooked - 0
-betteranimalsplus:pheasantcooked - 0
 netherex:ghast_meat_cooked - 0
 
 
@@ -6612,9 +6563,6 @@ harvestcraft:turkeyrawitem - 0
 harvestcraft:venisonrawitem - 0
 harvestcraft:duckrawitem - 0
 mysticalworld:venison - 0
-betteranimalsplus:venisonraw - 0
-betteranimalsplus:turkey_raw - 0
-betteranimalsplus:pheasantraw - 0
 netherex:ghast_meat_raw - 0
 
 
@@ -6922,7 +6870,6 @@ listAllvenisoncooked
 harvestcraft:cookedtofenisonitem - 0
 harvestcraft:venisoncookeditem - 0
 mysticalworld:cooked_venison - 0
-betteranimalsplus:venisoncooked - 0
 
 
 listAllvenisonraw
@@ -6930,7 +6877,6 @@ harvestcraft:rawtofenisonitem - 0
 harvestcraft:venisonrawitem - 0
 harvestcraft:groundvenisonitem - 0
 mysticalworld:venison - 0
-betteranimalsplus:venisonraw - 0
 
 
 listAllwater
@@ -7731,30 +7677,6 @@ pearlFluix
 appliedenergistics2:material - 9
 
 
-peltBear
-betteranimalsplus:bear_skin_brown - 0
-betteranimalsplus:bear_skin_black - 0
-betteranimalsplus:bear_skin_kermode - 0
-
-
-peltBearBlack
-betteranimalsplus:bear_skin_black - 0
-
-
-peltBearBrown
-betteranimalsplus:bear_skin_brown - 0
-
-
-peltBearKermode
-betteranimalsplus:bear_skin_kermode - 0
-
-
-peltWolf
-betteranimalsplus:wolf_pelt_black - 0
-betteranimalsplus:wolf_pelt_snowy - 0
-betteranimalsplus:wolf_pelt_timber - 0
-
-
 plankStained
 quark:stained_planks - any
 quark:vertical_stained_planks - any
@@ -8513,24 +8435,6 @@ minecraft:black_shulker_box - 0
 
 shulkerShell
 minecraft:shulker_shell - 0
-
-
-skinBear
-betteranimalsplus:bear_skin_brown - 0
-betteranimalsplus:bear_skin_black - 0
-betteranimalsplus:bear_skin_kermode - 0
-
-
-skinBearBlack
-betteranimalsplus:bear_skin_black - 0
-
-
-skinBearBrown
-betteranimalsplus:bear_skin_brown - 0
-
-
-skinBearKermode
-betteranimalsplus:bear_skin_kermode - 0
 
 
 slabAluminum
