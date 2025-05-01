@@ -7038,8 +7038,6 @@ minecraft:stone - 1
 minecraft:stone - 3
 minecraft:stone - 5
 minecraft:cobblestone - 0
-quark:limestone - 0
-quark:marble - 0
 
 
 mushroomAny
