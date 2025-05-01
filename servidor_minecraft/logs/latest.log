@@ -4172,3 +4172,55 @@ Report this to the loot adder.
 [04:19:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
 [04:20:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
 [04:20:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:20:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Werireha was slain by Rupter
+[04:21:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:21:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:21:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:21:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:21:28] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-12, -11] in dimension 0 (overworld) while populating chunk [-11, -11], causing cascading worldgen lag.
+[04:21:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:28] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-13, -11] in dimension 0 (overworld) while populating chunk [-11, -11], causing cascading worldgen lag.
+[04:21:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:22:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:22:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:22:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jecana was slain by Rupter
+[04:22:36] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: zanderga123
+[04:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zanderga123> f
+[04:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 has made the advancement [Acquire Hardware]
+[04:22:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:22:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:23:13] [Server thread/WARN] [FML]: Quark loaded a new chunk [-17, 6] in dimension 0 (overworld) while populating chunk [-16, 7], causing cascading worldgen lag.
+[04:23:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:23:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WoodWallRemains
+[04:23:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-18, 7] in dimension 0 (overworld) while populating chunk [-17, 7], causing cascading worldgen lag.
+[04:23:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:23:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WoodWallRemains
+[04:23:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-18, 6] in dimension 0 (overworld) while populating chunk [-17, 7], causing cascading worldgen lag.
+[04:23:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:23:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:23:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 has made the advancement [Isn't It Iron Pick]
+[04:24:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:24:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 has made the advancement [Monster Hunter]
+[04:25:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:25:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:25:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:25:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:25:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:25:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:26:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:26:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:27:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:27:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:28:09] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:28:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zanderga123 has made the advancement [Sweet dreams]
+[04:28:54] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:28:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:29:39] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:29:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Javivixvi has made the advancement [Sweet dreams]
+[04:30:24] [Server thread/INFO] [gamestages]: Saved 0 stages for zanderga123.
+[04:30:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Javivixvi.
+[04:30:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zanderga123: Set own game mode to Creative Mode]
