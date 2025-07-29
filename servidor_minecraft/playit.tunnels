@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "loss-refinance.gl.joinmc.link",
-          "assigned_srv": "loss-refinance.gl.joinmc.link",
+          "assigned_domain": "holiday-cowboy.gl.joinmc.link",
+          "assigned_srv": "holiday-cowboy.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "953e38b9-94d8-45fa-8e82-45255dafc8a5",
-          "ip_hostname": "24.ip.gl.ply.gg",
+          "id": "94b67c05-53c2-4d7b-b6f3-640b2569bb51",
+          "ip_hostname": "30.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 62258,
-          "port_start": 62257,
+          "port_end": 10722,
+          "port_start": 10721,
           "region": "global",
-          "static_ip4": "147.185.221.24",
-          "static_ip6": "2602:fbaf:0:1::18",
-          "tunnel_ip": "2602:fbaf:0:1::18"
+          "static_ip4": "147.185.221.30",
+          "static_ip6": "2602:fbaf:0:1::1e",
+          "tunnel_ip": "2602:fbaf:0:1::1e"
         },
         "status": "allocated"
       },
-      "created_at": "2025-04-30T03:57:49.965734Z",
+      "created_at": "2025-07-29T23:28:17.278244Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "afeb0567-4a72-45b8-a995-380ad907bce9",
+      "id": "d49dc20b-69dd-4e46-a3bf-de4cd0ed66f5",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "a53eec29-c80d-4751-9169-11d12f574889",
-          "agent_name": "from-key-7021",
+          "agent_id": "89afd384-64a1-4a6d-a793-b4598c49a3f8",
+          "agent_name": "from-key-5acb",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },

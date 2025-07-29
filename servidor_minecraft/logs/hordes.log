@@ -1,16 +1,4 @@
 Trying to load config
-Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
-Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
-Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
-Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
-Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
-Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
-loaded horde table hordes:skeletons
-Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
-Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
-Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
-Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 40, min day 20 and max day 0
-loaded horde table hordes:default
 Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 20, min day 0 and max day 20
 Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 20 and max day 30
 Loaded entity minecraft:spider as class net.minecraft.entity.monster.EntitySpider with weight 15, min day 20 and max day 30
@@ -25,6 +13,18 @@ Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.En
 Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 15, min day 60 and max day 0
 Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 3, min day 40 and max day 0
 loaded horde table hordes:mixed_mobs
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
+Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
+Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
+loaded horde table hordes:skeletons
+Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
+Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
+Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
+Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 40, min day 20 and max day 0
+loaded horde table hordes:default
 loaded horde script hordes:default
 Loading infection cures
 Loaded infection cure 1xitem.appleGold@32767
