@@ -46,74 +46,8 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "srmonstress:aloe",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "srmonstress:heartdemon",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "srmonstress:patrolman",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
 			"entity": "primitivemobs:haunted_tool",
 			"spawnWeight": 70,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:goblin",
-			"spawnWeight": 100,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:goblin",
-			"spawnWeight": 50,
-			"minimumGroupCount": 3,
-			"maximumGroupCount": 3
-		}, 
-		{
-			"entity": "primitivemobs:rocket_creeper",
-			"spawnWeight": 50,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:festive_creeper",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:skeleton_warrior",
-			"spawnWeight": 100,
-			"minimumGroupCount": 3,
-			"maximumGroupCount": 3
-		}, 
-		{
-			"entity": "primitivemobs:support_creeper",
-			"spawnWeight": 30,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:festive_creeper",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "multimob:dummy",
-			"spawnWeight": 100,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -124,8 +58,14 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:trollager",
-			"spawnWeight": 25,
+			"entity": "primitivemobs:bewitched_tome",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:rocket_creeper",
+			"spawnWeight": 50,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -136,14 +76,50 @@
 			"maximumGroupCount": 1
 		}, 
 		{
+			"entity": "primitivemobs:goblin",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:void_eye",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:festive_creeper",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:goblin",
+			"spawnWeight": 50,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "multimob:dummy",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
 			"entity": "primitivemobs:harpy",
 			"spawnWeight": 100,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 3
 		}, 
 		{
-			"entity": "primitivemobs:bewitched_tome",
-			"spawnWeight": 100,
+			"entity": "primitivemobs:trollager",
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:festive_creeper",
+			"spawnWeight": 10,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -160,14 +136,20 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:treasure_slime",
-			"spawnWeight": 20,
+			"entity": "primitivemobs:skeleton_warrior",
+			"spawnWeight": 100,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "primitivemobs:support_creeper",
+			"spawnWeight": 30,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:void_eye",
-			"spawnWeight": 10,
+			"entity": "primitivemobs:treasure_slime",
+			"spawnWeight": 20,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -214,14 +196,14 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "multimob:dummy",
-			"spawnWeight": 50,
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:flame_spewer",
-			"spawnWeight": 100,
+			"entity": "multimob:dummy",
+			"spawnWeight": 50,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}

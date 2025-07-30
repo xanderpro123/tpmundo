@@ -7006,9 +7006,6 @@ netherex:fiery_netherrack - 0
 netherex:icy_netherrack - 0
 
 
-nocubessrpsurvivalmeat_for_buglins
-
-
 nuggetAlubrass
 tconstruct:nuggets - 5
 
@@ -7708,9 +7705,6 @@ quark:stained_planks - any
 quark:vertical_planks - any
 quark:vertical_stained_planks - any
 mysticalworld:charred_planks - 0
-nocubessrpsurvival:planksgreen - 0
-nocubessrpsurvival:plankscyan - 0
-nocubessrpsurvival:plankspurple - 0
 
 
 plantBarley

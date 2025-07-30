@@ -1928,19 +1928,3 @@ mujmajnkraftsbettersurvival:weightless
    - Max Level: 1
 
 
-hermitsarsenal:lucky
-   - Id: 240
-   - Rarity: VERY_RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 2
-
-
-nocubesrptweaks:recalling
-   - Id: 241
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-

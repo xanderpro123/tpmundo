@@ -138,5 +138,4 @@ netherex:ruthless_sands
 netherex:fungi_forest
 netherex:torrid_wasteland
 netherex:arctic_abyss
-srparasites:biome_parasite
 ee:ash_wastelands

@@ -59,8 +59,8 @@
 				"meta": 0,
 				"enchantments": [
 					{
-						"enchantment": "futurefireproof:fireproof",
-						"enchantmentLevel": 1
+						"enchantment": "somanyenchantments:lfa",
+						"enchantmentLevel": 2
 					}
 				],
 				"minCount": 1,

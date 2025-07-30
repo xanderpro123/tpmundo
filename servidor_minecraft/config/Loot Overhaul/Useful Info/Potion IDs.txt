@@ -407,400 +407,190 @@ netherex:soul_sucked
    - Is Bad: true
 
 
-srparasites:coth
-   - Id: 57
-   - Color: 894258
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:fear
-   - Id: 58
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:antimall
-   - Id: 59
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:bleed
-   - Id: 60
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:corrosive
-   - Id: 61
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:viral
-   - Id: 62
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:rage
-   - Id: 63
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:repel
-   - Id: 64
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:senses
-   - Id: 65
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:prey
-   - Id: 66
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:debar
-   - Id: 67
-   - Color: 894258
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:needler
-   - Id: 68
-   - Color: 894258
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:foster
-   - Id: 69
-   - Color: 894258
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:link
-   - Id: 70
-   - Color: 894258
-   - Is Instant: false
-   - Is Bad: true
-
-
-srparasites:pivot
-   - Id: 71
-   - Color: 894258
-   - Is Instant: false
-   - Is Bad: true
-
-
 immersiveengineering:flammable
-   - Id: 72
+   - Id: 57
    - Color: 9387807
    - Is Instant: false
    - Is Bad: true
 
 
 immersiveengineering:slippery
-   - Id: 73
+   - Id: 58
    - Color: 1511427
    - Is Instant: false
    - Is Bad: true
 
 
 immersiveengineering:conductive
-   - Id: 74
+   - Id: 59
    - Color: 6881280
    - Is Instant: false
    - Is Bad: true
 
 
 immersiveengineering:sticky
-   - Id: 75
+   - Id: 60
    - Color: 10250240
    - Is Instant: false
    - Is Bad: true
 
 
 immersiveengineering:stunned
-   - Id: 76
+   - Id: 61
    - Color: 6441624
    - Is Instant: false
    - Is Bad: true
 
 
 immersiveengineering:concretefeet
-   - Id: 77
+   - Id: 62
    - Color: 6441624
    - Is Instant: false
    - Is Bad: true
 
 
 immersiveengineering:flashed
-   - Id: 78
+   - Id: 63
    - Color: 6441624
    - Is Instant: false
    - Is Bad: true
 
 
 mujmajnkraftsbettersurvival:stun
-   - Id: 79
+   - Id: 64
    - Color: 16774925
    - Is Instant: false
    - Is Bad: true
 
 
 mujmajnkraftsbettersurvival:warp
-   - Id: 80
+   - Id: 65
    - Color: 9838591
    - Is Instant: true
    - Is Bad: false
 
 
 mujmajnkraftsbettersurvival:antiwarp
-   - Id: 81
+   - Id: 66
    - Color: 14378216
    - Is Instant: false
    - Is Bad: true
 
 
 mujmajnkraftsbettersurvival:milk
-   - Id: 82
+   - Id: 67
    - Color: 16777215
    - Is Instant: true
    - Is Bad: false
 
 
 mujmajnkraftsbettersurvival:cure
-   - Id: 83
+   - Id: 68
    - Color: 16774925
    - Is Instant: true
    - Is Bad: false
 
 
 mujmajnkraftsbettersurvival:dispel
-   - Id: 84
+   - Id: 69
    - Color: 11921919
    - Is Instant: true
    - Is Bad: true
 
 
 bountifulbaubles:sinful
-   - Id: 85
+   - Id: 70
    - Color: 1053463
    - Is Instant: false
    - Is Bad: false
 
 
-hermitsarsenal:outbreak
-   - Id: 86
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-hermitsarsenal:seised
-   - Id: 87
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-hermitsarsenal:stunned
-   - Id: 88
-   - Color: 894257
-   - Is Instant: false
-   - Is Bad: true
-
-
-xaerominimap:no_minimap
-   - Id: 89
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: false
-
-
-xaerominimap:no_minimap_harmful
-   - Id: 90
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: true
-
-
-xaerominimap:no_entity_radar
-   - Id: 91
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: false
-
-
-xaerominimap:no_entity_radar_harmful
-   - Id: 92
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: true
-
-
-xaerominimap:no_waypoints
-   - Id: 93
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: false
-
-
-xaerominimap:no_waypoints_harmful
-   - Id: 94
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: true
-
-
-xaerominimap:no_cave_maps
-   - Id: 95
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: false
-
-
-xaerominimap:no_cave_maps_harmful
-   - Id: 96
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: true
-
-
-xaeroworldmap:no_world_map
-   - Id: 97
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: false
-
-
-xaeroworldmap:no_world_map_harmful
-   - Id: 98
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: true
-
-
-xaeroworldmap:no_cave_maps
-   - Id: 99
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: false
-
-
-xaeroworldmap:no_cave_maps_harmful
-   - Id: 100
-   - Color: -16777216
-   - Is Instant: false
-   - Is Bad: true
-
-
 xat:sparkling
-   - Id: 101
+   - Id: 71
    - Color: 16777160
    - Is Instant: true
    - Is Bad: false
 
 
 xat:glittering
-   - Id: 102
+   - Id: 72
    - Color: 16777120
    - Is Instant: true
    - Is Bad: false
 
 
 xat:glowing
-   - Id: 103
+   - Id: 73
    - Color: 16777080
    - Is Instant: true
    - Is Bad: false
 
 
 xat:ice_resistance
-   - Id: 104
+   - Id: 74
    - Color: 15132390
    - Is Instant: false
    - Is Bad: false
 
 
 xat:lightning_resistance
-   - Id: 105
+   - Id: 75
    - Color: 15132390
    - Is Instant: false
    - Is Bad: false
 
 
 xat:human
-   - Id: 106
+   - Id: 76
    - Color: 11107684
    - Is Instant: false
    - Is Bad: false
 
 
 xat:fairy
-   - Id: 107
+   - Id: 77
    - Color: 12514535
    - Is Instant: false
    - Is Bad: false
 
 
 xat:dwarf
-   - Id: 108
+   - Id: 78
    - Color: 10832170
    - Is Instant: false
    - Is Bad: false
 
 
 xat:titan
-   - Id: 109
+   - Id: 79
    - Color: 10066329
    - Is Instant: false
    - Is Bad: false
 
 
 xat:goblin
-   - Id: 110
+   - Id: 80
    - Color: 6588004
    - Is Instant: false
    - Is Bad: false
 
 
 xat:elf
-   - Id: 111
+   - Id: 81
    - Color: 16374701
    - Is Instant: false
    - Is Bad: false
 
 
 xat:faelis
-   - Id: 112
+   - Id: 82
    - Color: 16571252
    - Is Instant: false
    - Is Bad: false
 
 
 xat:dragon
-   - Id: 113
+   - Id: 83
    - Color: 3289650
    - Is Instant: false
    - Is Bad: false

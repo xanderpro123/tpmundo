@@ -186,6 +186,21 @@ minecraft:luck
        minecraft:luck - 6000 - 0 - false - true
 
 
+quark:resilience
+   - Effects: 
+       quark:resilience - 3600 - 0 - false - true
+
+
+quark:long_resilience
+   - Effects: 
+       quark:resilience - 9600 - 0 - false - true
+
+
+quark:strong_resilience
+   - Effects: 
+       quark:resilience - 1800 - 1 - false - true
+
+
 quark:haste
    - Effects: 
        minecraft:haste - 3600 - 0 - false - true
@@ -241,21 +256,6 @@ quark:long_danger_sight
        quark:danger_sight - 9600 - 0 - false - true
 
 
-quark:resilience
-   - Effects: 
-       quark:resilience - 3600 - 0 - false - true
-
-
-quark:long_resilience
-   - Effects: 
-       quark:resilience - 9600 - 0 - false - true
-
-
-quark:strong_resilience
-   - Effects: 
-       quark:resilience - 1800 - 1 - false - true
-
-
 mowziesmobs:poison_resist
    - Effects: 
        mowziesmobs:poison_resist - 3600 - 0 - false - true
@@ -284,66 +284,6 @@ netherex:dispersal
 netherex:sorrow
    - Effects: 
        netherex:crying - 600 - 0 - false - true
-
-
-srparasites:coth
-   - Effects: 
-       srparasites:coth - 2400 - 0 - false - true
-
-
-srparasites:fear
-   - Effects: 
-       srparasites:fear - 2400 - 0 - false - true
-
-
-srparasites:res
-   - Effects: 
-       srparasites:antimall - 2400 - 0 - false - true
-
-
-srparasites:corro
-   - Effects: 
-       srparasites:corrosive - 2400 - 0 - false - true
-
-
-srparasites:vira
-   - Effects: 
-       srparasites:viral - 2400 - 0 - false - true
-
-
-srparasites:rage
-   - Effects: 
-       srparasites:rage - 2400 - 0 - false - true
-
-
-srparasites:repel
-   - Effects: 
-       srparasites:repel - 2400 - 0 - false - true
-
-
-srparasites:senses
-   - Effects: 
-       srparasites:senses - 2400 - 0 - false - true
-
-
-srparasites:debar
-   - Effects: 
-       srparasites:debar - 2400 - 0 - false - true
-
-
-srparasites:foster
-   - Effects: 
-       srparasites:foster - 2400 - 0 - false - true
-
-
-srparasites:link
-   - Effects: 
-       srparasites:link - 2400 - 0 - false - true
-
-
-srparasites:pivot
-   - Effects: 
-       srparasites:pivot - 2400 - 0 - false - true
 
 
 xat:sparkling
@@ -519,15 +459,5 @@ mujmajnkraftsbettersurvival:cure
 mujmajnkraftsbettersurvival:dispel
    - Effects: 
        mujmajnkraftsbettersurvival:dispel - 1 - 0 - false - true
-
-
-hermitsarsenal:outbreak_n
-   - Effects: 
-       hermitsarsenal:outbreak - 1200 - 0 - false - true
-
-
-hermitsarsenal:outbreak_a
-   - Effects: 
-       hermitsarsenal:outbreak - 900 - 1 - false - true
 
 

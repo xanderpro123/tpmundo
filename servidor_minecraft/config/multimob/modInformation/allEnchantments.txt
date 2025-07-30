@@ -238,5 +238,3 @@ mujmajnkraftsbettersurvival:penetration
 mujmajnkraftsbettersurvival:fling
 mujmajnkraftsbettersurvival:vitality
 mujmajnkraftsbettersurvival:weightless
-hermitsarsenal:lucky
-nocubesrptweaks:recalling
